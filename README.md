@@ -53,7 +53,7 @@ EduCareer is a full-stack web platform built for students and professionals acro
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EduCareer.git
+git clone https://github.com/nikhil-9027/EduCareer.git
 cd EduCareer
 ```
 
